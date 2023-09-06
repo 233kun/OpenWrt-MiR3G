@@ -5,3 +5,6 @@ git clone  https://github.com/zzsj0928/luci-app-pushbot package/luci-app-pushbot
 # vssr
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
+#UA
+git clone https://github.com/Zxilly/UA2F
+git clone https://github.com/CHN-beta/xmurp-ua
